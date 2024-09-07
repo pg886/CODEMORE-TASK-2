@@ -10,7 +10,6 @@ Domain: Web Development
 
 **Overview of the Project**
 
-# Contact Form Project
+**Website Project with HTML, CSS, PHP, and MySQL**
 
-This is a simple contact form built using HTML, CSS, and JavaScript. It allows potential clients to submit inquiries, including their name, email, subject, and message. The form includes client-side validation to ensure that all fields are correctly filled before submission. Upon successful submission, a confirmation message is displayed to the user.
-
+This project is a dynamic website built using HTML, CSS for the frontend, and PHP with MySQL for the backend. The website includes multiple pages, user interactions, and a database connection for handling dynamic content.
