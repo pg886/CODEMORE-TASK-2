@@ -13,3 +13,4 @@ Domain: Web Development
 **Website Project with HTML, CSS, PHP, and MySQL**
 
 This project is a dynamic website built using HTML, CSS for the frontend, and PHP with MySQL for the backend. The website includes multiple pages, user interactions, and a database connection for handling dynamic content.
+
